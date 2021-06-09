@@ -58,7 +58,6 @@ public class AlgoritmoCPF {
 				cpf[10] = 11 - resto;
 			}
 			
-			
         }
     }
 }
